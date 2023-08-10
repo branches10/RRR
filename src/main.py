@@ -4,3 +4,5 @@ def mul(a,b):
     multiply
 def div(a,b):
     pass
+def sub(a,b):
+    pass
